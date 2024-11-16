@@ -1,1 +1,1 @@
-# OCR_Model
+# Nutrition Label & Table OCR Detection using PaddleOCR
